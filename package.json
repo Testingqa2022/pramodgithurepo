@@ -1,0 +1,19 @@
+{
+  "name": "gitlab-hello-world",
+  "version": "1.0.0",
+  "description": "gitlab repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/qateamin2/gitlab-hello-world.git"
+  },
+  "author": "govind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/qateamin2/gitlab-hello-world/issues"
+  },
+  "homepage": "https://gitlab.com/qateamin2/gitlab-hello-world#readme"
+}
